@@ -72,3 +72,4 @@ help -le
 help lt
 help -lt
 help
+help [[ expression ]]
