@@ -88,3 +88,5 @@ bad_command
 bad_command ls
 ls --color=auto
 ls --color=auto
+ls --color=auto
+ls --color=auto -y
