@@ -114,3 +114,4 @@ ls --color=auto /bin
 help sleep
 ls --color=auto /bin/sleep
 man sleep
+sleep 3
