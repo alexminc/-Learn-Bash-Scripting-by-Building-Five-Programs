@@ -75,3 +75,4 @@ help
 help [[ expression ]]
 help ==
 help test
+./countdown.sh 5
