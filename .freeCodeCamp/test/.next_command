@@ -73,3 +73,5 @@ help lt
 help -lt
 help
 help [[ expression ]]
+help ==
+help test
