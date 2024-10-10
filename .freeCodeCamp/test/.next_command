@@ -289,3 +289,5 @@ __vsc_prompt_cmd_original
 VAR="hello world "
 VAR="hello world"
 echo $VAR
+[[ "hello world" == $VAR ]]
+[[ $VAR == "hello world" ]]
