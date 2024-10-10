@@ -311,3 +311,4 @@ type then
 type bashg
 type bash
 type psql
+type ./five.sh
