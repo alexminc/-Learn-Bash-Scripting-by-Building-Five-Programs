@@ -253,3 +253,9 @@ declare -p echo ${ARR[*]}
 declare -p
 declae -p ARR
 declare -p ARR
+ARB=("d" "e")
+echo $ARB[1]
+RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
+RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
+RESPONCES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
+RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
