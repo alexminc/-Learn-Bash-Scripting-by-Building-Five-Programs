@@ -260,3 +260,4 @@ RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again late
 RESPONCES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
 RESPONSES=("Yes" "No" "Maybe" "Outlook good" "Don't count on it" "Ask again later")
 ./fortune.sh
+random help
