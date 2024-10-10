@@ -184,3 +184,4 @@ I++
 echo $I++
 (( I++ ))
 echo $I
+help let
