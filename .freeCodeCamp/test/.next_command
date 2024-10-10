@@ -247,3 +247,9 @@ echo $ARR*
 echo $*
 echo $ARR@
 echo ${ARR[*]}
+declare -p
+declare -p $ARR
+declare -p echo ${ARR[*]}
+declare -p
+declae -p ARR
+declare -p ARR
