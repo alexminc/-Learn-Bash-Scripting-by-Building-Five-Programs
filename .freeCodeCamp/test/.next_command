@@ -308,3 +308,5 @@ type echo
 type read
 type if
 type then
+type bashg
+type bash
