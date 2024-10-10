@@ -196,3 +196,4 @@ echo $J
 echo $J=J*5 + 25
 __vsc_prompt_cmd_original
 echo $(( J*5 + 25 ))
+echo $J
