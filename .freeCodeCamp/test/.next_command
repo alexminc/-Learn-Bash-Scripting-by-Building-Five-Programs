@@ -208,3 +208,8 @@ declare -p
 declare -p J
 declaer -p RANDOM
 declare -p RANDOM
+echo RANDOM % 75
+echo $RANDOM % 75
+echo $RANDOM % 75
+$(( RANDOM % 75 ))
+echo $(( RANDOM % 75 ))
