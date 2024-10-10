@@ -283,3 +283,4 @@ __vsc_prompt_cmd_original
 [[ hello == world ]]
 [[ hello =~ el ]]
 [[ "hello world" =~ "lo wor" ]]
+[[ "hello world" =~ ^h ]]
