@@ -163,3 +163,4 @@ touch bingo.sh
 chmod +x
 chmod --help
 chmod +x bingo.sh
+./bingo.sh
