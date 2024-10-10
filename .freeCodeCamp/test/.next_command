@@ -205,3 +205,4 @@ echo $(( J + 5 ))
 echo $(( J - 5 ))
 echo $J
 declare -p
+declare -p J
