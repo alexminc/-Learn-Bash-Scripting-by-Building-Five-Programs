@@ -310,3 +310,4 @@ type if
 type then
 type bashg
 type bash
+type psql
