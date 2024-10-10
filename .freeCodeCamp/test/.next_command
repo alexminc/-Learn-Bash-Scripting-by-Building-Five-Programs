@@ -160,3 +160,6 @@ help while
 ./countdown.sh 1
 ./countdown.sh 10
 touch bingo.sh
+chmod +x
+chmod --help
+chmod +x bingo.sh
